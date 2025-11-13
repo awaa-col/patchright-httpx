@@ -398,13 +398,13 @@ MIT License - 详见 [LICENSE](LICENSE) 文件。
 
 ---
 
-**Author / 作者**: Color_Fox 🦊
+**Author / 作者**: awaa-col 
 
-**Repository / 仓库**: https://github.com/Color_Fox/patchright-httpx
+**Repository / 仓库**: https://github.com/awaa-col/patchright-httpx
 
 **License / 许可**: MIT
 
 [![PyPI](https://img.shields.io/pypi/v/patchright-httpx)](https://pypi.org/project/patchright-httpx/)
 [![Python](https://img.shields.io/pypi/pyversions/patchright-httpx)](https://pypi.org/project/patchright-httpx/)
-[![License](https://img.shields.io/github/license/Color_Fox/patchright-httpx)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Color_Fox/patchright-httpx?style=social)](https://github.com/Color_Fox/patchright-httpx)
+[![License](https://img.shields.io/github/license/awaa-col/patchright-httpx)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/awaa-col/patchright-httpx?style=social)](https://github.com/awaa-col/patchright-httpx)
